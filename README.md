@@ -17,7 +17,9 @@ You can check out the live demo of the Todo List web app [here] ((https://hrisha
 
 ## Screenshots
 
-![Todo List Web App](...............................)
+![image](https://github.com/HRISHAV18/CodeClause_Internship_To-do_List/assets/97503756/d716991c-bd96-4d71-8bee-9dff5ae7fd5d)
+![image](https://github.com/HRISHAV18/CodeClause_Internship_To-do_List/assets/97503756/17cce0eb-97f9-4dbc-9d84-c8a1c3dd9741)
+
 
 ## Technologies Used
 
